@@ -1,48 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Kaggle-Playground</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: auto;
-      padding: 2rem;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    pre {
-      background: #f0f0f0;
-      padding: 1rem;
-      overflow-x: auto;
-      border-radius: 5px;
-    }
-    code {
-      font-family: Consolas, monospace;
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      list-style-type: square;
-    }
-    hr {
-      margin: 2rem 0;
-    }
-  </style>
-</head>
-<body>
-
   <h1>🏆 Kaggle-Playground</h1>
   <p>A curated collection of my Kaggle competition submissions, notebooks, and solutions — showcasing machine learning experiments, feature engineering, and modeling techniques.</p>
 
@@ -117,7 +72,7 @@ pip install -r requirements.txt
   <ul>
     <li>🔗 <a href="https://www.kaggle.com/kdsharma" target="_blank">Kaggle Profile</a></li>
     <li>💼 <a href="https://www.linkedin.com/in/kumod-sharma/" target="_blank">LinkedIn</a></li>
-    <li>📧 Email: <a href="mailto:kumod.aws@gmail.com">your-email@example.com</a></li>
+    <li>📧 Email: <a href="mailto:kumod.aws@gmail.com">kumod.aws@gmail.com</a></li>
   </ul>
 
   <hr>
