@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -102,7 +103,7 @@
       <pre><code>git clone https://github.com/your-username/Kaggle-Playground.git</code></pre>
     </li>
     <li>Navigate into a competition folder and explore the notebooks.</li>
-    <li>Set up a virtual environment (optional but recommended):
+    <li>Set up a virtual environment (optional):
       <pre><code>python -m venv env
 source env/bin/activate  # or .\env\Scripts\activate on Windows
 pip install -r requirements.txt
@@ -114,9 +115,9 @@ pip install -r requirements.txt
 
   <h2>📬 Contact</h2>
   <ul>
-    <li>🔗 <a href="https://www.kaggle.com/your-kaggle-username">Kaggle Profile</a></li>
-    <li>💼 <a href="https://www.linkedin.com/in/your-linkedin-username">LinkedIn</a></li>
-    <li>📧 Email: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+    <li>🔗 <a href="https://www.kaggle.com/kdsharma" target="_blank">Kaggle Profile</a></li>
+    <li>💼 <a href="https://www.linkedin.com/in/kumod-sharma/" target="_blank">LinkedIn</a></li>
+    <li>📧 Email: <a href="mailto:kumod.aws@gmail.com">your-email@example.com</a></li>
   </ul>
 
   <hr>
